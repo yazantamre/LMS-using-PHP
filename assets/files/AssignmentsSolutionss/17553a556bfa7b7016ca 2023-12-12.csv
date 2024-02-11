@@ -1,0 +1,14 @@
+id,firstName,lastName,email,password,address,imagePath,phone,type,status,registrationDate,approvalDate,passwordReset
+1,Ali,Admin,pallmsacademy@gmail.com,EdVYcHpe4bw=,hebron university,http://localhost/Online Lms/assets/images/users/admin.png,599123123,1,1,10/2/2023,10/3/2023,NULL
+34,Areen,Shalaldeh,areenstd@gmail.com,EdVYcHpe4bw=,hebron - sair,http://localhost/Online Lms/assets/images/users/201 Areen Shalaldeh 2023-12-12 629.jpg,9.72599E+11,2,1,12/12/2023,NULL,NULL
+35,Ahmad,Ali,yazanatamrea@gmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/224 Ahmad Ali 2023-12-12 999.jpg,areenteacher3@gmail.com,2,1,12/12/2023,NULL,NULL
+36,Yazan,Mohammad,yazantamreuk@gmail.com,EdVYcHpe4bw=,Dura,http://localhost/Online Lms/assets/images/users/433 Yazan Mohammad 2023-12-12 656.jpg,9.72599E+11,2,1,12/12/2023,NULL,NULL
+37,Abbas,Samir,yazanta2001@gmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/teacher.png,9.72599E+11,2,2,12/12/2023,NULL,NULL
+38,Osama,Amro,Osama@gmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/student.png,9.72599E+11,3,2,12/12/2023,NULL,NULL
+39,Amro,Salah,salah@gmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/student.png,9.72599E+11,3,1,12/12/2023,NULL,NULL
+40,Amer,Mahmod,yazan2000a@hotmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/31 Amer Mahmod 2023-12-12 636.jpg,9.72599E+11,3,1,12/12/2023,NULL,NULL
+44,Motasem,Dayah,motasem@gmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/student.png,9.72599E+11,3,1,12/12/2023,NULL,NULL
+45,Ansam,darwish,ansam@gmail.com,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/student.png,9.72599E+11,3,1,12/12/2023,NULL,NULL
+46,Walaa,sharawi,walaa@gmail.com,EdVYcHpe4bw=,hebron - sair,http://localhost/Online Lms/assets/images/users/teacher.png,9.72599E+11,2,1,12/12/2023,NULL,NULL
+47,Samah,Badawi,samahb@hebron.edu,EdVYcHpe4bw=,hebron,http://localhost/Online Lms/assets/images/users/teacher.png,9.72599E+11,2,1,12/12/2023,NULL,NULL
+48,Khalil,Almasri,al_masri@hebron.edu,EdVYcHpe4bw=,Hebron,http://localhost/Online Lms/assets/images/users/student.png,9.72599E+11,3,1,12/12/2023,NULL,NULL
